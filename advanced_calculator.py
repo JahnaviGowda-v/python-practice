@@ -1,6 +1,5 @@
-print("Created by Jahnavi")
 import math
-
+print("Created by Jahnavi")
 num = float(input("Enter a number: "))
 
 print("1. Square Root")
